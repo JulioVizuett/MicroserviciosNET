@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXxhh2n+X3wH6jui2XMiP/G+Gvabyeg81Up5KSyxXS4x9hrrKf4fSj64zkSVu680PaIecuZOf49xQBEg14Q3jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Axity\\Documents\\MicroserviciosNET\\catalogos-service\\Example.Catalogos.Dtos\\Example.Catalogos.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Axity\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
